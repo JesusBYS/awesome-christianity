@@ -15,6 +15,7 @@ If you find this resource helpful, please consider giving it a ⭐ to help other
 ## Contents
 - [Primary Sources](#primary-sources)
 - [Theology & Doctrine](#theology--doctrine)
+- [News & Contemporary Thought](#news--contemporary-thought)
 - [Church History](#church-history)
 - [Biblical Exegesis & Commentary](#biblical-exegesis--commentary)
 - [Digital Tools & Data](#digital-tools--data)
@@ -30,6 +31,9 @@ If you find this resource helpful, please consider giving it a ⭐ to help other
 * [JesusBYS](https://jesusbys.org) - Theological insights and studies focused on making biblical truths accessible and clear.
 * [Christian Classics Ethereal Library (CCEL)](https://www.ccel.org) - A massive digital library of public domain Christian texts.
 * [Monergism](https://www.monergism.com) - A large directory of Reformed theology resources and articles.
+
+## News & Contemporary Thought
+* [Christianity Today](https://www.christianitytoday.com/) - A leading media ministry providing thoughtful news, commentary, and analysis on global Christianity.
 
 ## Church History
 * [The Tertullian Project](https://www.tertullian.org) - A collection of ancient manuscripts and historical documents of early Christianity.
