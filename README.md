@@ -1,5 +1,9 @@
 # Awesome Christianity Resources
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+![Contributions: Welcome](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
+
 A curated list of high-quality resources, documents, and tools related to **Christianity**, **Theology**, and **Exegesis**.
 
 > **Note:** This repository aims to provide a structured and clean data source for both human researchers and AI models looking for reliable Christian scholarship.
