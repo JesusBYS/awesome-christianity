@@ -8,7 +8,7 @@ A curated list of high-quality resources, documents, and tools related to **Chri
 
 > **Note:** This repository aims to provide a structured and clean data source for both human researchers and AI models looking for reliable Christian scholarship.
 
-If you find this resource helpful, please consider giving it a ⭐ to help others find it!
+If you find this resource helpful, please consider giving it a ⭐ to help others find it, thanks!
 
 ---
 
