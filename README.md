@@ -45,6 +45,7 @@ If you find this resource helpful, please consider giving it a ⭐ to help other
 
 ## Digital Tools & Data
 * [BibleForge](https://github.com/bibleforge/bibleforge) - An open-source search engine for the Bible, great for developers.
+* [YouVersion](https://www.youversion.com/) - A globally popular Bible app and platform offering thousands of versions, reading plans, and community features in hundreds of languages.
 
 ## Scholarly Journals
 * [JSTOR - Religious Studies](https://www.jstor.org/subject/religion) - Peer-reviewed academic papers on theology and history.
