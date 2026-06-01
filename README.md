@@ -45,6 +45,7 @@ If you find this resource helpful, please consider giving it a ⭐ to help other
 
 ## Digital Tools & Data
 * [BibleForge](https://github.com/bibleforge/bibleforge) - An open-source search engine for the Bible, great for developers.
+* [Doxa MCP](https://github.com/The-Doxa-Way/doxa-mcp-schema) - A Christian AI MCP server that brings Bible verses (Berean Standard Bible, 31,000+ verses) and encouragement to any AI assistant. Three tools: encouragement, Scripture lookup, and the Doxa Way journey map. 5/5 on the faith.tools Christian-AI rubric.
 * [YouVersion](https://www.youversion.com/) - A globally popular Bible app and platform offering thousands of versions, reading plans, and community features in hundreds of languages.
 
 ## Scholarly Journals
