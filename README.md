@@ -45,6 +45,7 @@ If you find this resource helpful, please consider giving it a ⭐ to help other
 
 ## Digital Tools & Data
 * [BibleForge](https://github.com/bibleforge/bibleforge) - An open-source search engine for the Bible, great for developers.
+* [Large Print Maker](https://largeprintmaker.com/) - Free printable large-print PDFs of hymns, psalms (KJV), prayers and Christmas carols, plus Bible word searches; 18 to 28 point, generated in the browser, no ads or account.
 * [YouVersion](https://www.youversion.com/) - A globally popular Bible app and platform offering thousands of versions, reading plans, and community features in hundreds of languages.
 
 ## Scholarly Journals
